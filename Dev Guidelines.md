@@ -3,4 +3,6 @@
 
 2. Generally, the fewer preferences there are, the better the browser will respond.
 
-3. sb.scorecardresearch.com should not be included in the blocklist, as some websites will use the presence of this connection to check for an ad blocker. If its connection is not detected, the website may choose to withhold content. To avoid this, making use of uMatrix is helpful when debugging the blocklist to confirm what calls sites make to certain servers.
+3. No modifications may be implemented that outright breaks FF 38+.
+
+4. sb.scorecardresearch.com should not be included in the blocklist, as some websites will use the presence of this connection to check for an ad blocker. If its connection is not detected, the website may choose to withhold content. To avoid this, making use of uMatrix is helpful when debugging the blocklist to confirm what calls sites make to certain servers.
