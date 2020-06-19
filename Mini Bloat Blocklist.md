@@ -1,4 +1,4 @@
-network.dns.localDomains (41 entries, 48 target) -
+network.dns.localDomains (74 entries, 96 target) -
 
 ALLOW:
 
@@ -6,33 +6,50 @@ ALLOW:
 
 - A
 
-ad.doubleclick.net
-adservice.google.com
-adinfo.aol.com
 acdn.adnxs.com
+ad.atdmt.com
+ad.doubleclick.net
+adinfo.aol.com
+adservice.google.com
 adserver-us.adtech.advertising.com
+ads.adaptv.advertising.com
 ads.adthrive.com
 ads.pubmatic.com
 ads.yahoo.com
+amplify.outbrain.com
+api.rlcdn.com
+api.segment.io
+as-sec.casalemedia.com
 assets.adobedtm.com
 
 - B
 
+bidder.criteo.com
+
 - C
 
+c2.taboola.com
 c.amazon-adsystem.com
-connect.facebook.net
 c.aaxads.com
+cdn.adsafeprotected.com
+cdn.connatix.com
+cdn-gl.imrworldwide.com
 cdn-magiclinks.trackonomics.net
+cdn.mouseflow.com
 cdn.pricespider.com
 cdn.krxd.net
 cdn.optimizely.com
 cdn3.optimizely.com
 cdn.segment.com
-cdn.adsafeprotected.com
+cdnssl.clicktale.net
+cdn.taboola.com
 cdn.p-n.io
+cm.g.doubleclick.net
+connect.facebook.net
 
 - D
+
+dpm.demdex.net
 
 - E
 
@@ -47,6 +64,7 @@ fls.doubleclick.net
 - G
 
 googleads.g.doubleclick.net
+google-analytics.com
 
 - H
 
@@ -60,12 +78,21 @@ ib.adnxs.com
 
 js-agent.newrelic.com
 js-sec.indexww.com
+js.spotx.tv
 
 - K
 
+krk.kargo.com
+
 - L
 
+logx.optimizely.com
+
 - M
+
+match.adsrvr.org
+mid.rkdms.com
+mscom.demdex.net
 
 - N
 
@@ -81,26 +108,42 @@ prebid-server.rubiconproject.com
 
 - S
 
+s0.2mdn.net
+s.amazon-adsystem.com
 sb.scorecardresearch.com
-securepubads.g.doubleclick.net
-secure.quantserve.com
+s.btstatic.com
 script.crazyegg.com
+securepubads.g.doubleclick.net
+secure-gl.imrworldwide.com
+secure-us.imrworldwide.com
+secure.quantserve.com
+s.go-mpulse.com
+sofia.trustx.org
+static.chartbeat.com
+static.criteo.net
 static.doubleclick.net
 static.ads-twitter.com
-s.amazon-adsystem.com
+storage.cloud.kargo.com
 sp.analytics.yahoo.com
-s.go-mpulse.com
+sync-tm.everesttech.net
 
 - T
 
+tag.bounceexchange.com
+tlx.3lift.com
+
 - U
+
+u.openx.net
 
 - V
 
 - W
 
+widgets.outbrain.com
 www.googleadservices.com
 www.google-analytics.com
+www.googletagservices.com
 
 - X
 
