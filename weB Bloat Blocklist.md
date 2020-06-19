@@ -1,4 +1,4 @@
-network.dns.localDomains (134 entries) -
+network.dns.localDomains (138 entries) -
 
 - 123
 
@@ -33,6 +33,7 @@ b-code.liadm.com
 bcp.crwdcntrl.net
 bh.contextweb.com
 bidder.criteo.com
+bid.g.doubleclick.net
 bs.serving-sys.com
 bttrack.com
 
@@ -58,6 +59,7 @@ cdn.segment.com
 cdnssl.clicktale.net
 cdn.taboola.com
 cdn.viglink.com
+certify.alexametrics.com
 c.go-mpulse.net
 cm.g.doubleclick.net
 connect.facebook.net
@@ -98,6 +100,7 @@ image2.pubmatic.com
 
 js-agent.newrelic.com
 js.gleam.io
+js.hs-analytics.net
 js-sec.indexww.com
 js.spotx.tv
 
@@ -159,6 +162,7 @@ secure.insightexpressal.com
 securepubads.g.doubleclick.net
 secure-us.imrworldwide.com
 secure.quantserve.com
+settings.luckyorange.net
 s.go-mpulse.com
 snap.licdn.com
 sofia.trustx.org
@@ -239,6 +243,7 @@ b-code.liadm.com
 bcp.crwdcntrl.net
 bh.contextweb.com
 bidder.criteo.com
+bid.g.doubleclick.net
 bs.serving-sys.com
 bttrack.com
 c2.taboola.com
@@ -261,6 +266,7 @@ cdn.segment.com
 cdnssl.clicktale.net
 cdn.taboola.com
 cdn.viglink.com
+certify.alexametrics.com
 c.go-mpulse.net
 cm.g.doubleclick.net
 connect.facebook.net
@@ -280,6 +286,7 @@ ib.adnxs.com
 image2.pubmatic.com
 js-agent.newrelic.com
 js.gleam.io
+js.hs-analytics.net
 js-sec.indexww.com
 js.spotx.tv
 krk.kargo.com
@@ -315,6 +322,7 @@ secure.insightexpressal.com
 securepubads.g.doubleclick.net
 secure-us.imrworldwide.com
 secure.quantserve.com
+settings.luckyorange.net
 s.go-mpulse.com
 snap.licdn.com
 sofia.trustx.org
