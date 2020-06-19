@@ -1,8 +1,6 @@
-network.dns.localDomains -
+network.dns.localDomains (41 entries, 48 target) -
 
 ALLOW:
-
-sb.scorecardresearch.com
 
 - 123
 
@@ -83,6 +81,7 @@ prebid-server.rubiconproject.com
 
 - S
 
+sb.scorecardresearch.com
 securepubads.g.doubleclick.net
 secure.quantserve.com
 script.crazyegg.com
