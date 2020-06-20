@@ -1,4 +1,4 @@
-network.dns.localDomains (138 entries) -
+network.dns.localDomains (148 entries) -
 
 - 123
 
@@ -8,6 +8,7 @@ a2.adform.net
 acdn.adnxs.com
 action.media6degrees.com
 ad.atdmt.com
+ad.crwdcntrl.net
 ad.doubleclick.net
 adinfo.aol.com
 adservice.google.com
@@ -39,6 +40,7 @@ bttrack.com
 
 - C
 
+c1.rfihub.net
 c2.taboola.com
 c.amazon-adsystem.com
 c.aaxads.com
@@ -67,6 +69,7 @@ cs.emxdgt.com
 
 - D
 
+d.agkn.com
 dpm.demdex.net
 
 - E
@@ -98,6 +101,7 @@ image2.pubmatic.com
 
 - J
 
+js.ad-score.com
 js-agent.newrelic.com
 js.gleam.io
 js.hs-analytics.net
@@ -110,14 +114,18 @@ krk.kargo.com
 
 - L
 
+lasteventf-tm.everesttech.net
+libs.coremetrics.com
 logx.optimizely.com
 
 - M
 
 match.adsrvr.org
+mboxedge.tt.omtrdc.net
 mid.rkdms.com
 ml314.com
 mscom.demdex.net
+munchkin.marketo.net
 
 - N
 
@@ -150,6 +158,7 @@ rover.ebay.com
 - S
 
 s0.2mdn.net
+s7.addthis.com
 s.amazon-adsystem.com
 sb.scorecardresearch.com
 s.btstatic.com
@@ -164,6 +173,7 @@ secure-us.imrworldwide.com
 secure.quantserve.com
 settings.luckyorange.net
 s.go-mpulse.com
+s.go-mpulse.net
 snap.licdn.com
 sofia.trustx.org
 ssc-cms.33across.com
@@ -221,6 +231,7 @@ a2.adform.net
 acdn.adnxs.com
 action.media6degrees.com
 ad.atdmt.com
+ad.crwdcntrl.net
 ad.doubleclick.net
 adinfo.aol.com
 adservice.google.com
@@ -246,6 +257,7 @@ bidder.criteo.com
 bid.g.doubleclick.net
 bs.serving-sys.com
 bttrack.com
+c1.rfihub.net
 c2.taboola.com
 c.amazon-adsystem.com
 c.aaxads.com
@@ -271,6 +283,7 @@ c.go-mpulse.net
 cm.g.doubleclick.net
 connect.facebook.net
 cs.emxdgt.com
+d.agkn.com
 dpm.demdex.net
 eb2.3lift.com
 eus.rubiconproject.com
@@ -284,17 +297,22 @@ hbopenbid.pubmatic.com
 hbx.media.net
 ib.adnxs.com
 image2.pubmatic.com
+js.ad-score.com
 js-agent.newrelic.com
 js.gleam.io
 js.hs-analytics.net
 js-sec.indexww.com
 js.spotx.tv
 krk.kargo.com
+lasteventf-tm.everesttech.net
+libs.coremetrics.com
 logx.optimizely.com
 match.adsrvr.org
+mboxedge.tt.omtrdc.net
 mid.rkdms.com
 ml314.com
 mscom.demdex.net
+munchkin.marketo.net
 nexus.ensighten.com
 opus.analytics.yahoo.com
 pagead2.googlesyndication.com
@@ -310,6 +328,7 @@ purch-sync.go.sonobi.com
 px.powerlinks.com
 rover.ebay.com
 s0.2mdn.net
+s7.addthis.com
 s.amazon-adsystem.com
 sb.scorecardresearch.com
 s.btstatic.com
@@ -324,6 +343,7 @@ secure-us.imrworldwide.com
 secure.quantserve.com
 settings.luckyorange.net
 s.go-mpulse.com
+s.go-mpulse.net
 snap.licdn.com
 sofia.trustx.org
 ssc-cms.33across.com
