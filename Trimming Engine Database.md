@@ -1,8 +1,55 @@
+
 network.dns.localDomains (148 entries) -
 
 uncombed sites:
 
 msn.com/news
+yelp.com
+fandom.com
+walmart.com
+ebay.com
+linkedin.com
+healthline.com
+etsy.com
+indeed.com
+webmd.com
+merriam-webster.com
+gamepedia.com
+target.com
+quora.com
+quizlet.com
+britannica.com
+businessinsider.com
+dictionary.com
+zillow.com
+msn.com
+usatoday.com
+medicalnewstoday.com
+urbandictionary.com
+usnews.com
+genius.com
+allrecipes.com
+spotify.com
+forbes.com
+finance.yahoo.com
+lowes.com
+foodnetwork.com
+cbssports.com
+macys.com
+xfinity.com
+go.com
+disney.com
+techradar.com
+investopedia.com
+yellowpages.com
+chase.com
+wellsfargo.com
+apartments.com
+huffpost.com
+expedia.com
+wowhead.com
+9gag.com
+funnyordie.com
 
 - 123
 
