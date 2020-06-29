@@ -1,5 +1,5 @@
 
-network.dns.localDomains (148 entries) -
+network.dns.localDomains (147 entries) -
 
 uncombed sites:
 
@@ -204,8 +204,6 @@ px.powerlinks.com
 
 - R
 
-rover.ebay.com
-
 - S
 
 s0.2mdn.net
@@ -377,7 +375,6 @@ ps.eyeota.net
 purch-match.dotomi.com
 purch-sync.go.sonobi.com
 px.powerlinks.com
-rover.ebay.com
 s0.2mdn.net
 s7.addthis.com
 s.amazon-adsystem.com
