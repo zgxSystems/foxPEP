@@ -12,18 +12,18 @@ Therefore, the following advantages should be seen once <b>foxPEP</b> has been i
 
 <b>Minimum Browser Families</b>
 
-Firefox 45 or Waterfox 45 and up
-Pale Moon 28 or Basilisk 2019-02-11 and up
+- Firefox 45 or Waterfox 45 and up
+- Pale Moon 28 or Basilisk 2019-02-11 and up
 
 <b>Minimum Operating Systems</b>
 
-Windows XP and newer
-macOS 10.6 Snow Leopard and newer
-GNU / Linux 4.4 and newer
+- Windows XP and newer
+- macOS 10.6 Snow Leopard and newer
+- GNU / Linux 4.4 and newer
 
 <b>Minimum Hardware Specifications</b>
 
-1 GHz processor and faster
-1 GB PC133 RAM and faster
-ATi R300, nVIDIA NV40, or Intel GMA X3000 graphics and faster
-10/100 Ethernet or 802.11n Wi-Fi and faster
+- 1 GHz processor and faster
+- 1 GB PC133 RAM and faster
+- ATi R300, nVIDIA NV40, or Intel GMA X3000 graphics and faster
+- 10/100 Ethernet or 802.11n Wi-Fi and faster
