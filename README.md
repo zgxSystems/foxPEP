@@ -10,7 +10,7 @@ Therefore, the following advantages should be seen once foxPEP has been installe
 -   Fluid	page scrolling
 -   Optimized disk, memory, and CPU utilization
 
-Minimum Browser Families
+*Minimum Browser Families*
 
 -   Firefox 45 or Waterfox 45 and up
 -   Pale Moon 28 or Basilisk 2019-02-11 and up
