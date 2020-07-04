@@ -4,11 +4,11 @@ The Firefox Partitioned Engine Patch, officially abbreviated as foxPEP, is a fin
 
 Therefore, the following advantages should be seen once foxPEP has been installed:
 
-o   Faster website loading
-o   Accelerated image rendering
-o   Smoother video playback
-o   Fluid	page scrolling
-o   Optimized disk, memory, and CPU utilization
+-   Faster website loading
+-   Accelerated image rendering
+-   Smoother video playback
+-   Fluid	page scrolling
+-   Optimized disk, memory, and CPU utilization
 
 Minimum Browser Families
 
