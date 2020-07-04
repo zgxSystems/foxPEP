@@ -27,3 +27,7 @@ Therefore, the following advantages should be seen once <b>foxPEP</b> has been i
 - 1 GB PC133 RAM and faster
 - ATi R300, nVIDIA NV40, or Intel GMA X3000 graphics and faster
 - 10/100 Ethernet or 802.11n Wi-Fi and faster
+
+<b>Releases</b>
+
+https://github.com/The-foxPEP-Project/foxPEP/releases
