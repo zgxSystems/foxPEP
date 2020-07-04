@@ -1,7 +1,6 @@
 Release 2.0 'Ingenuity' (7/3/20) - Introduce Trimming Engine, Guide To Internet, speed up site loading, image rendering, page scrolling ...
 
-Release 2.1 'Humility' (8/31/20) - Complete Trimming Engine, improve GTI, speed up video playback
+Release 2.1 'Humility' (8/31/20) - Complete Trimming Engine, improve GTI, speed up video playback, improve paint delay
 
-Release 2.2 'Gratitude' (10/21/20) - Improve Wiki, release performance comparison to Chrome / Safari ... Consider partnership w/ third-party
-
-Release 2.3 'Release ID TBA' (12/X/20) - TBA
+Release 2.2 'Ambition' (12/21/20) - Improve Wiki, improve paint delay, release optimized browser builds, release performance comparison to Chrome / Safari ...
+Consider partnership w/ third-party
