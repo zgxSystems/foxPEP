@@ -31,3 +31,5 @@ Therefore, the following advantages should be seen once <b>foxPEP</b> has been i
 <b>Releases</b>
 
 https://github.com/The-foxPEP-Project/foxPEP/releases
+
+<b>- If foxPEP has helped you, please consider sponsoring this project to show your appreciation. Thank you. -</b>
