@@ -32,4 +32,4 @@ Therefore, the following advantages should be seen once <b>foxPEP</b> has been i
 
 https://github.com/The-foxPEP-Project/foxPEP/releases
 
-<b>- If foxPEP has helped you, please consider sponsoring this project to show your appreciation. Thank you. -</b>
+<b>---> If foxPEP has helped you, please consider sponsoring this project to show your appreciation for the R&D, testing, and debugging that was actively poured into it since its birth in September 2019. Thank you. <---</b>
