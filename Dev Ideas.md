@@ -16,7 +16,7 @@ accessibility.force_disabled;1 - Disables accessibility features, freeing resour
 
 Future:
 
-media.ffvpx.enabled (FF 76+) - Leverages GPU to render VP9; no effect for MP4
-dom.webgpu.enabled (FF 68+?) - Currently unstable; do not use
+media.ffvpx.enabled;true (FF 76+) - Leverages GPU to render VP9; no effect for MP4
+dom.webgpu.enabled;true (FF 68+?) - Currently unstable; do not use
 
 javascript.options.shared_memory;true - Leverages second thread / core to crunch JS
