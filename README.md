@@ -34,6 +34,6 @@ https://github.com/The-foxPEP-Project/foxPEP/releases
 
 <b>o o o</b>
 
-<b>If foxPEP has helped you, please consider sponsoring this project to show your appreciation for the R&D, testing, and debugging that was relentlessly poured into it since its birth in October 2019. Thank you.</b>
+<b>If foxPEP has enriched your life, please consider sponsoring this project to show your appreciation for the exhaustive amount of research, development, testing, and debugging that was relentlessly poured into it since its birth in October 2019. Thank you.</b>
 
 https://www.paypal.com/paypalme/foxpep
