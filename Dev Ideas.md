@@ -15,8 +15,6 @@ More:
 javascript.options.shared_memory;true - Leverages second thread to share memory allocated for JS with; disabled in 2018 due to Spectre, and currently in process of being re-enabled, so leave alone
 extensions.blocklist.enabled;false - Disables the addon blocklist updating system, freeing resources (compromises on security)
 extensions.pocket.enabled;false - Disables the Pocket feature, freeing resources (disabled on PM, WF, so no need)
-* gfx.xrender.enabled;true - Switches page rendering from the Firefox process to the X11 process; results in slightly better video and page rendering performance
-* gfx.color_management.mode;0 - Turns off built-in color management, which frees resources and in many cases may even make colors look better as a result
 
 Future:
 
