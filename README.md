@@ -4,11 +4,11 @@ The Fire<b>fox</b> <b>P</b>artitioned <b>E</b>ngine <b>P</b>atch, officially abb
 
 Therefore, the following advantages should be seen once <b>foxPEP</b> has been installed:
 
-- *Faster website loading*
-- *Accelerated image rendering*
-- *Smoother video playback*
-- *Fluid	page scrolling*
-- *Optimized disk, memory, and CPU utilization*
+- Faster website loading
+- Accelerated image rendering
+- Smoother video playback
+- Fluid	page scrolling
+- Optimized disk, memory, and CPU utilization
 
 
 Minimum Browser Families
