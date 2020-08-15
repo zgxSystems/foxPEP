@@ -10,13 +10,14 @@ Windows Vista+: direct2d1.1 (Direct2D), macOS: cg (Quartz), Linux: xr(?) (XRende
 
 More:
 
-network.dns.disableIPv6;false - Disables IPv6 DNS lookups, theoretically shortening loading time
-extensions.pocket.enabled;false - Disables the Pocket feature, freeing resources
-accessibility.force_disabled;1 - Disables accessibility features, freeing resources
+extensions.blocklist.enabled;false - Disables the addon blocklist updating system, freeing resources
+extensions.pocket.enabled;false - Disables the Pocket feature, freeing resources (disabled on PM, WF, so no need)
+gfx.xrender.enabled;true - Switches page rendering from the Firefox process to the X11 process, potentially freeing resources
+
 
 Future:
 
 media.ffvpx.enabled;true (FF 76+) - Leverages GPU to render VP9; no effect for MP4
 dom.webgpu.enabled;true (FF 68+?) - Currently unstable; do not use
 
-javascript.options.shared_memory;true - Leverages second thread / core to crunch JS
+javascript.options.shared_memory;true - Leverages second thread / core to crunch JS (disabled on FF, WF, enabled on PM, TFF)
