@@ -12,9 +12,9 @@ D2/3d = skia > cg > cairo
 
 More:
 
-extensions.blocklist.enabled;false - Disables the addon blocklist updating system, freeing resources
+extensions.blocklist.enabled;false - Disables the addon blocklist updating system, freeing resources (compromises on security)
 extensions.pocket.enabled;false - Disables the Pocket feature, freeing resources (disabled on PM, WF, so no need)
-gfx.xrender.enabled;true - Switches page rendering from the Firefox process to the X11 process, potentially freeing resources
+* gfx.xrender.enabled;true - Switches page rendering from the Firefox process to the X11 process, potentially freeing resources
 
 
 Future:
@@ -22,4 +22,4 @@ Future:
 media.ffvpx.enabled;true (FF 76+) - Leverages GPU to render VP9; no effect for MP4
 dom.webgpu.enabled;true (FF 68+?) - Currently unstable; do not use
 
-javascript.options.shared_memory;true - Leverages second thread / core to crunch JS (disabled on FF, WF, enabled on PM, TFF)
+javascript.options.shared_memory;true - Leverages second thread to share memory allocated for JS with; disabled in 2018 due to Spectre, and currently in process of being re-enabled, so leave alone
