@@ -31,7 +31,7 @@ Minimum Hardware Specifications
 
 - 600 MHz processor and faster
 - 1 GB PC100 RAM and faster
-- ATi R300, nVIDIA NV40, or Intel GMA X3000 graphics and faster
+- ATi R300, nVIDIA NV40, or Intel GMA 950 graphics and faster
 - 10/100 Ethernet or 802.11n Wi-Fi and faster
 
 
