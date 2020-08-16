@@ -1,5 +1,5 @@
 
-network.dns.localDomains (242 Entries) -
+network.dns.localDomains (240 Entries) -
 
 facebook.com (v2.2)
 www.facebook.com (v2.2)
@@ -106,7 +106,6 @@ d.agkn.com
 dc.ads.linkedin.com
 delivery.vidible.tv
 dev.visualwebsiteoptimizer.com
-downloads.mailchimp.com
 dpm.demdex.net
 d.turn.com
 
@@ -206,7 +205,6 @@ pixel.advertising.com
 pixel.mathtag.com
 pixel.quantserve.com
 pi.pardot.com
-platform.twitter.com
 pool.grid-data.bidswitch.net
 prebid-server.rubiconproject.com
 ps.eyeota.net
@@ -416,7 +414,6 @@ d.agkn.com
 dc.ads.linkedin.com
 delivery.vidible.tv
 dev.visualwebsiteoptimizer.com
-downloads.mailchimp.com
 dpm.demdex.net
 d.turn.com
 eb2.3lift.com
@@ -480,7 +477,6 @@ pixel.advertising.com
 pixel.mathtag.com
 pixel.quantserve.com
 pi.pardot.com
-platform.twitter.com
 pool.grid-data.bidswitch.net
 prebid-server.rubiconproject.com
 ps.eyeota.net
