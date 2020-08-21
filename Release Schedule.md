@@ -1,2 +1,1 @@
-Release 2.2 'Ambition' (12/21/20) [ POTENTIAL FINAL RELEASE ] - Improve Wiki, improve GTI, compile optimized browser builds, block Facebook, save the world, release performance comparison to Chrome / Safari ...
-Consider partnership w/ third-party
+Release 2.2 'Gratitude' (12/21/20) [ POTENTIAL FINAL RELEASE ] - Improve Wiki, improve GTI, compile optimized browser builds, block Facebook, save the world
