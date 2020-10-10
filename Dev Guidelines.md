@@ -5,4 +5,6 @@
 
 3. Generally, the fewer preference alterations there are, the more efficiently the browser will respond.
 
-4. Final releases must be packaged from a Linux or BSD environment, as Windows and macOS will autonomously place index files in the release folder. Xarchiver is the recommended packaging tool.
+4. In accordance with the aforementioned standard, it is better to disable only (ex. app.update.enabled) rather than (ex. app.update.enabled) + (ex. app.update.auto), as the ".enabled" / ".disabled" suffixes function as master kill switches of the features in their entirety, thus effectively rendering further alteration of prefixing features redundant.
+
+5. Final releases must be packaged from a Linux or BSD environment, as Windows and macOS will autonomously place index files in the release folder. Xarchiver is the recommended packaging tool.
