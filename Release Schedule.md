@@ -1,1 +1,1 @@
-<b>Release 2.2 'Gratitude' (10/21/20) [ PRESUMPTIVE FINAL REVISION ]</b> - Improve general operative performance, improve GTI, delete Facebook, update / conclude AquaWeb, transition development resources to SL-PPC
+<b>Release 2.2 'Gratitude' (10/21/20) [ PRESUMPTIVE FINAL REVISION ]</b> - Improve general operative performance, improve GTI, delete Facebook, update / conclude AquaWeb project, transition development resources to SL-PPC
