@@ -1,5 +1,3 @@
-Current gfx.canvas.azure.backends / gfx.content.azure.backends; cg,skia,cairo
-
 Available gfx.canvas.azure.backends;
 
 Windows XP+: d3d(?) (Direct3D), macOS: cg (Quartz), HwAc Fallback: skia (Skia), SfRn Fallback 2: cairo (Cairo)
@@ -13,8 +11,6 @@ D2/3d = skia > cg > cairo
 More:
 
 javascript.options.shared_memory;true - Leverages second thread to share memory allocated for JS with; disabled in 2018 due to Spectre, and currently in process of being re-enabled, so leave alone
-extensions.blocklist.enabled;false - Disables the addon blocklist updating system, freeing resources (compromises on security)
-extensions.pocket.enabled;false - Disables the Pocket feature, freeing resources (disabled on PM, WF, so no need)
 
 Future:
 
