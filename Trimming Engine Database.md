@@ -1,8 +1,5 @@
 
-network.dns.localDomains (240 Entries) -
-
-facebook.com (v2.2)
-www.facebook.com (v2.2)
+network.dns.localDomains (242 Entries) -
 
 - 123
 
@@ -118,6 +115,7 @@ ewscripps.hb.omtrdc.net
 
 - F
 
+facebook.com
 fastlane.rubiconproject.com
 fls.doubleclick.net
 futurenet-d.openx.net
@@ -305,11 +303,12 @@ vid.springserve.com
 - W
 
 web.hb.ad.cpe.dotomi.com
+widgets.outbrain.com
 www.bizographics.com
 www.dianomi.com
 www.dwin1.com
 www.everestjs.net
-widgets.outbrain.com
+www.facebook.com
 www.google-analytics.com
 www.googleadservices.com
 www.googletagservices.com
