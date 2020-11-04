@@ -41,7 +41,7 @@ Releases
 https://github.com/zgxSystems/foxPEP/releases
 
 
-One More Thing ...
+Conclusion
 -
 
 <b>If foxPEP has made life better as designed, please consider sponsoring this project to show your appreciation for the exhaustive amount of research, development, testing, and debugging that was relentlessly poured into it since its birth in October 2019.</b>
