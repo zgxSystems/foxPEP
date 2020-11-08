@@ -8,3 +8,5 @@
 4. In accordance with the aforementioned standard, it is better to disable only (ex. app.update.enabled) rather than (ex. app.update.enabled) + (ex. app.update.auto), as the ".enabled" / ".disabled" suffixes function as master kill switches of the features in their entirety, thus effectively rendering further alteration of prefixing features redundant.
 
 5. Final releases must be packaged from a Linux or BSD environment, as Windows and macOS will autonomously place index files in the release folder. Xarchiver is the recommended packaging tool.
+
+6. Standard Firefox versions use the *default-release* profile folder and will ignore *default-esr*. Firefox ESR versions use the *default-esr* profile folder and will ignore *default-release*.
