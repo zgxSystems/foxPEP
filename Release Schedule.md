@@ -1,1 +1,1 @@
-<b>Release 2.2 'Gratitude' (11/18/20) [ FINAL VERSION ]</b> - Improve general operative performance, improve site loading times, delete Facebook, introduce TFFP, update / conclude AquaWeb project, transition development resources to SLPPC (if possible)
+<b>11.21.20</b>
