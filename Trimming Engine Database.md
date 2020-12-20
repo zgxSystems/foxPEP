@@ -1,5 +1,5 @@
 
-network.dns.localDomains (242 Entries) -
+network.dns.localDomains (240 Entries) -
 
 - 123
 
@@ -25,7 +25,6 @@ ads.yahoo.com
 adx.adform.net
 ad.yieldlab.net
 aka-cdn.adtechus.com
-alb.reddit.com
 amplify.outbrain.com
 analytics.twitter.com
 ap.lijit.com
@@ -544,7 +543,6 @@ tlx.3lift.com
 tpc.googlesyndication.com
 t.pubmatic.com
 trk.vidible.tv
-ufzua-051ht.ads.tremorhub.com
 universal.iperceptions.com
 u.openx.net
 ups.analytics.yahoo.com
