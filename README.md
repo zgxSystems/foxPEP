@@ -39,13 +39,3 @@ Releases
 -
 
 https://github.com/zgxSystems/foxPEP/releases
-
-
-Afterword
--
-
-<b>If foxPEP has made your life better as designed, please consider sponsoring this project as a small token of appreciation for the exhaustive amount of research, development, testing, and debugging that was poured into it since its birth in October 2019.</b>
-
-<b>Thank you.</b>
-
-https://www.paypal.com/paypalme/foxpep
